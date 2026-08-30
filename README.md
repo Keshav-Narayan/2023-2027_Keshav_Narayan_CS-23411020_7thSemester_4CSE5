@@ -32,6 +32,7 @@ and internship certificate.
 
 The repository contains the following files:
 
+```text
 2023-2027_Keshav_Narayan_CS-23411020_7thSemester_4CSE5/
 │
 ├── AI-ML Virtual Internship.pdf
